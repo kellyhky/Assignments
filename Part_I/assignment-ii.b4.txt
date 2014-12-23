@@ -1,0 +1,74 @@
+//Problem 1
+var arr = [];
+
+for (i = 0; i < 1000; i++) {
+  if (i % 3 === 0) {
+    arr.push(i);
+  } else if (i % 5 === 0) {
+    arr.push(i);
+  }
+}
+
+var count = 0;
+
+for (var i = 0; i < arr.length; i++) {
+  count = count + arr[i];
+}
+
+console.log(count);
+//Answer: 233,168
+
+//Problem 2
+var arr = [1,2,3];
+var arr_even = [];
+
+for (i = 0; i <= 4000000; i++) {
+  var last_num = arr[arr.length - 1];
+  var second_last_num = arr[arr.length - 2];
+  if (i === last_num + second_last_num) {
+    arr.push(i);
+  }
+}
+
+for (i = 0; i <= arr.length; i++) {
+  if (arr[i] % 2 === 0) {
+    arr_even.push(arr[i]);
+  }
+}
+
+var count = 0;
+
+for (var i = 0; i < arr_even.length; i++) {
+  count = count + arr_even[i];
+}
+
+console.log(count);
+//Answer: 4,613,732
+
+//Problem 3
+var num = 600851475143;
+var arr = [];
+
+var isPrime = function(number) {
+  for (j = 2; j < number; j++) {
+    if (number % j === 0) {
+      return false;
+    }
+  }
+return true;
+};
+
+for (i = 2; i < Math.sqrt(num); i++) {
+  if (num % i === 0) {
+    if (isPrime(i) === true) {
+      arr.push(i);
+    }
+  }
+}
+
+arr.sort(function(a, b) {
+  return b - a;
+});
+
+console.log(arr[0]);
+//Answer: 6,857
