@@ -1,0 +1,262 @@
+I. Introduction to Web Development
+A. About Web Developers - COMPLETED
+1. What a Web Developer Does
+2. Web Developer Jobs and Careers
+3. Tools of the Trade
+4. Web Development Communities
+5. The Best Web Developers
+6. Getting Hired as a Web Developer
+7. Conclusion
+
+Total Lessons/Sections: 7/1
+
+II. Web Development 101
+A. The Basics - COMPLETED
+1. How this Course Will Work
+2. How Does the Web Work?
+3. How Does Your Computer Work?
+4. Terms to Know
+5. Project: Installations (1)
+
+B. The Front End
+1. Introduction to the Front End
+2. HTML and CSS Basics
+3. Project: HTML/CSS (2)
+4. Javascript Basics
+5. jQuery Basics
+6. Project: Javascript and jQuery (3)
+
+C. The Back End
+1. Introduction to the Back End
+2. Ruby Basics
+3. Testing Basics
+4. Project: Ruby (4)
+5. Databases
+
+D. Web Development Frameworks
+1. Introduction to Frameworks
+2. Ruby on Rails Basics
+3. Project: Ruby on Rails (5)
+4. Backbone.js
+
+E. Additional Important Topics - COMPLETED
+1. Git Basics
+2. The Cloud, Hosting, and Software as a Service (SAAS)
+3. Security, SSL, and Best Practices
+4. FTP Basics
+
+F. Tying it All Together
+1. How are Websites Built in the Real World?
+2. Principles of Good Programming
+3. Conclusion
+
+Total Lessons/Sections: 27/6
+
+III. Ruby Programming
+A. Basic Ruby
+1. How this Course Will Work
+2. Ruby Building Blocks
+3. Project: Building Blocks (6)
+4. Advanced Ruby Building Blocks
+5. Project: Advanced Building Blocks (7)
+
+B. Intermediate Ruby
+1. Object Oriented Programming
+2. Project: OOP (8)
+3. Files and Serialization
+4. Project: File I/O and Serialization (9)
+
+C. Ruby on the Web
+1. Bringing Ruby Online
+2. Project: Ruby on the Web (10)
+
+D. A Bit of Computer Science
+1. A Very Brief Intro to CS
+2. Recursive Methods
+3. Project: Recursion (11)
+4. Common Data Structures and Algorithms
+5. Project: Data Structures and Algorithms (12)
+
+E. Testing Ruby with RSpec
+1. Introduction to RSpec
+2. Testing Ruby
+
+F. Git
+1. A Deeper Look at Git
+2. Using Git in the Real World
+
+G. Conclusion
+1. Project: Ruby Final Project (13)
+2. Conclusion
+
+Total Lessons/Sections: 22/7
+
+IV. Ruby on Rails
+A. Introduction to Rails
+1. How this Course Will Work
+2. Project: Getting Your Feet Wet (14)
+3. A Railsy Web Refresher
+4. Deployment
+5. Project: Let's Get Building (15)
+
+B. Routes, Views, Controllers and Assets
+1. Routing
+2. Controllers
+3. Views
+4. The Asset Pipeline
+5. Project: Basic Routes, Views and Controllers (16)
+
+C. Databases and Active Record
+1. Databases and SQL
+2. Project: SQL (17)
+3. Active Record Basics
+4. Project: Building With Active Record (18)
+
+D. Forms and Authentication
+1. Form Basics
+2. Project: Forms (19)
+3. Sessions, Cookies, and Authentication
+4. Project: Authentication (20)
+
+E. Advanced Forms and Active Record
+1. Active Record Queries
+2. Active Record Associations
+3. Project: Associations (21)
+4. Active Record Callbacks
+5. Project: Advanced Associations (22)
+6. Advanced Forms
+7. Project: Building Advanced Forms (23)
+
+F. APIs, Mailers and Advanced Topics
+1. APIs and Building Your Own
+2. Working With External APIs
+3. Project: APIs (24)
+4. Mailers
+5. Project: Sending Confirmation Emails (25)
+6. Advanced Topics
+7. Project: Final Project (26)
+8. Conclusion
+
+Total Lessons/Sections: 33/6
+
+V. HTML5 and CSS3
+A. Basic HTML Page Structure
+1. How This Course Will Work
+2. HTML5 Basics
+3. Linking Internal and External Pages
+4. Working with Images, Video and Other Media
+5. Project: Embedding Images and Videos (27)
+6. What's New in HTML5
+
+B. Displaying and Inputting Data
+1. Tables in HTML
+2. Ordered and Unordered Lists
+3. Forms for Collecting Data
+4. Project: HTML Forms (28)
+
+C. CSS3
+1. CSS3 Basics
+2. The Box Model
+3. Floats and Positioning
+4. Project: Positioning and Floating Elements (29)
+5. Best Practices
+6. Backgrounds and Gradients
+7. Project: Building with Backgrounds and Gradients (30)
+
+D. Design and UX
+1. Introduction to Design and UX
+2. Fonts and Typography
+3. CSS Grids
+4. Project: Design Teardown (31)
+
+E. Responsive Design and CSS Frameworks
+1. Responsive Design
+2. Project: Building with Responsive Design (32)
+3. CSS Frameworks like Bootstrap and Foundation
+4. Project: Using Bootstrap (33)
+
+F. Advanced CSS3
+1. Animations, Subtle Effects and Compatibility
+2. Using CSS Preprocessors to Save Time
+3. Project: Design Your Own Grid-Based Framework (34)
+4. Conclusion
+
+Total Lessons/Sections: 29/6
+
+VI. Javascript and jQuery
+A. The Basics and the Browser
+1. How This Course Will Work
+2. Javascript Basics
+3. Project: On Screen Calculator (35)
+4. jQuery Basics
+5. Project: Manipulating the DOM with jQuery (36)
+6. Organizing Your Code and More
+
+B. Events, Effects and Widgets
+1. Working with Events and Effects
+2. Project: jQuery and the DOM (37)
+3. Using jQuery UI to Build Widgets
+4. Project: Creating an Image Carousel/Slider (38)
+
+C. Deeper into Javascript
+1. Object, 'Classes', and Prototypes
+2. Scope and Closures
+3. Project: Tic Tac Toe (39)
+4. Comparing Javascript and Ruby: Going Functional
+5. Really Understanding Functions in Javascript
+6. Project: Minesweeper (40)
+
+D. Advanced Browser Work
+1. Loading Javascript in the Browser
+2. Callbacks: Living in an Event-Driven World
+3. Project: Callbacks (41)
+4. Using Canvas to Draw and More
+5. Project: Building Games with Canvas (42)
+
+E. Better Forms with jQuery and AJAX
+1. Validating Form Inputs Using jQuery
+2. Project: Validating a Form with jQuery (43)
+3. Submitting a Form Without Reloading by Using AJAX
+4. Project: Infinite Scroll and Submitting a Form with AJAX (44)
+
+F. Linking to APIs and Your Rails Back End
+1. Working with Javascript APIs
+2. Project: Putting Google Maps Onto Your Site (45)
+3. Using Ruby on Rails For Your Back End
+4. Project: Where's Waldo (A Photo Tagging App) (46)
+
+G. Server Side Javascript and Javascript Frameworks
+1. Node.js and Server-Side Javascript
+2. Project: Node.js (47)
+3. Using Templates
+4. Javascript MV* Frameworks Like Angular.js and Backbone.js
+5. Project: Building Single Page Websites with Angular.js and Backbone.js (48)
+6. Workflow Tools, Tech Stacks and Dependency Management
+
+H. Finishing Up with Javascript
+1. Javascript Testing with Jasmine
+2. Project: Final Project (49)
+3. Conclusion
+
+Total Lessons/Sections: 38/8
+
+VII. Getting Hired as a Web Developer
+A. Preparing for Your Job Search
+1. How This Course Will Work
+2. Strategy
+3. It Starts with YOU
+4. What Companies Want
+5. What You Can Do To Prepare
+6. Project: Building Your Personal Website
+
+B. Applying to and Interviewing for Jobs
+1. Collecting Job Leads
+2. Qualifying Job Leads
+3. Project: Building Your Resume
+4. Applying for Web Development Jobs
+5. Preparing to Interview and Interviewing
+6. Handling Job Offer
+7. Alternate Paths to a Web Development Job
+8. Conclusion
+
+Total Lessons/Sections: 14/2
